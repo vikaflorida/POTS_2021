@@ -1,0 +1,307 @@
+// TEST
+// Проверка работы циклов чтения и очереди
+
+1> rss_queue:start("http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml").
+<0.74.0>
+2> 
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_reader <0.74.0>:  HTTP Response: 200
+Size of RSS2Feed: 49 
+2> 
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:13 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:14 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:14 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:14 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:14 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:14 ===
+rss_queue <0.62.0>:  New item added to Queue. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_reader <0.74.0>:  HTTP Response: 200
+Size of RSS2Feed: 49 
+2> 
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:23 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:24 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:25 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>
+
+=INFO REPORT==== 3-May-2020::20:35:26 ===
+rss_queue <0.62.0>:  Same items. Item ignored. PID: <0.62.0>

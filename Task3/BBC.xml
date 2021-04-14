@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 04 Apr 2021 19:13:09 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Jordan accuses Prince Hamzah of plot to destabilise kingdom]]></title>
+            <description><![CDATA[The king's half-brother sought to mobilise tribal leaders against the government, the deputy PM says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56633266</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56633266</guid>
+            <pubDate>Sun, 04 Apr 2021 19:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kill the Bill protests: More than 100 arrested in London]]></title>
+            <description><![CDATA[More than 100 people are arrested after a demonstration against a bill to impose restrictions on protests.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56632030</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56632030</guid>
+            <pubDate>Sun, 04 Apr 2021 14:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Richard Okorogheye: Divers help search for missing student]]></title>
+            <description><![CDATA[Richard Okorogheye has not been seen by his family since he left his home on 22 March.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56632028</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56632028</guid>
+            <pubDate>Sun, 04 Apr 2021 13:21:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021 Boat Race: Cambridge beat Oxford in both men's and women's races]]></title>
+            <description><![CDATA[Cambridge win the 166th Boat Race in a contest moved to Cambridgeshire because of the coronavirus pandemic.]]></description>
+            <link>https://www.bbc.co.uk/sport/rowing/56630688</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rowing/56630688</guid>
+            <pubDate>Sun, 04 Apr 2021 17:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Passports showing vaccine status would be 'time-limited', says minister]]></title>
+            <description><![CDATA[The FA Cup Final will be among events to only admit fans who get a negative test or prove immunity.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56634176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56634176</guid>
+            <pubDate>Sun, 04 Apr 2021 19:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dorstone 'illegal rave': Police set up road blocks]]></title>
+            <description><![CDATA[The community is increasingly concerned about a "large gathering" in Dorstone, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144</guid>
+            <pubDate>Sun, 04 Apr 2021 14:21:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Florida declares state of emergency over toxic wastewater leak]]></title>
+            <description><![CDATA[More than 300 homes in the Tampa Bay area have been ordered to be evacuated.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56629013</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56629013</guid>
+            <pubDate>Sun, 04 Apr 2021 17:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucille Downer: Dogs 'humanely destroyed' after fatal attack in Rowley Regis]]></title>
+            <description><![CDATA[Lucille Downer, a great-grandma originally from Jamaica, died after a "sustained" attack, say police.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56633104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56633104</guid>
+            <pubDate>Sun, 04 Apr 2021 15:21:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newtownabbey: Man charged after police attacked and cars hijacked]]></title>
+            <description><![CDATA[Thirty petrol bombs were thrown at police and three cars hijacked and set alight on Saturday night.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56631894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56631894</guid>
+            <pubDate>Sun, 04 Apr 2021 16:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carabao Cup: Final between Tottenham & Man City to have 8,000 fans in stadium]]></title>
+            <description><![CDATA[The Carabao Cup final between Tottenham and Manchester City will have 8,000 fans in attendance after it is confirmed as a pilot event to test the return of big crowds.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56630189</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56630189</guid>
+            <pubDate>Sun, 04 Apr 2021 11:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three charged after mass brawl at Edinburgh Meadows]]></title>
+            <description><![CDATA[Police said "thousands" had gathered at the Meadows in Edinburgh where violence erupted.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56633336</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56633336</guid>
+            <pubDate>Sun, 04 Apr 2021 14:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No BBQs plea after Peak District moorland fires]]></title>
+            <description><![CDATA[One blaze, which spread across three hectares, was caused by people cooking, fire crews say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-56632819</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-56632819</guid>
+            <pubDate>Sun, 04 Apr 2021 15:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A55 Easter traffic brought to standstill as horse 'breaks down']]></title>
+            <description><![CDATA[The equine brought the A55 in Gwynedd to a standstill when its vehicle broke down.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56634445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56634445</guid>
+            <pubDate>Sun, 04 Apr 2021 17:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marwa Elselehdar: 'I was blamed for blocking the Suez Canal']]></title>
+            <description><![CDATA[Egypt's pioneering ship captain has been targeted over false rumours about her role in the incident.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56615521</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56615521</guid>
+            <pubDate>Sat, 03 Apr 2021 23:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WSL: Geese invade pitch at Brighton-Manchester United game]]></title>
+            <description><![CDATA[Several geese stop play at People's Pension Stadium during Brighton's 1-0 win over Manchester United.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56632543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56632543</guid>
+            <pubDate>Sun, 04 Apr 2021 15:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London Zoo: Learning to be a zookeeper during lockdown]]></title>
+            <description><![CDATA[London Zoo apprentice Joe on how he is learning to be a zookeeper during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56581934</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56581934</guid>
+            <pubDate>Sun, 04 Apr 2021 06:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long lost pen pals reunited after 70 years]]></title>
+            <description><![CDATA[Jim Johnston from Belfast tracked down his American pen pal seven decades after losing touch.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56603956</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56603956</guid>
+            <pubDate>Sat, 03 Apr 2021 23:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Egypt mummies: Parade transports remains of pharaohs]]></title>
+            <description><![CDATA[Amid fanfare, 18 kings and four queens were transported on custom-made vehicles designed to minimise vibration.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56625688</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56625688</guid>
+            <pubDate>Sun, 04 Apr 2021 10:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Project 17: Solving Singapore's food waste problem]]></title>
+            <description><![CDATA[Shan, 17, wants to find out just how much food gets wasted in his home country of Singapore.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-pacific-56606143</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-pacific-56606143</guid>
+            <pubDate>Sat, 03 Apr 2021 23:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bakewell love locks removal plans leave families 'devastated']]></title>
+            <description><![CDATA[Plans to remove hundreds of love locks from a Bakewell bridge leaves some families "gutted".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-56525456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-56525456</guid>
+            <pubDate>Sun, 04 Apr 2021 06:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hidden treasure: Hertford Union Canal gives up its secrets]]></title>
+            <description><![CDATA[Anna Borzello explores the Hertford Union Canal as it is drained for the first time in 20 years.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-56498299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56498299</guid>
+            <pubDate>Sat, 03 Apr 2021 23:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wally the Walrus: Fears for safety as Tenby tourists get 'too close']]></title>
+            <description><![CDATA[Conservationists urge Tenby tourists to enjoy the stray mammal's temporary visit "from a distance".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56626101</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56626101</guid>
+            <pubDate>Sat, 03 Apr 2021 14:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bridgerton fans mourn Regé-Jean Page's exit]]></title>
+            <description><![CDATA[Kim Kardashian joins those lamenting the news about the second series of the popular Netflix show.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56625683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56625683</guid>
+            <pubDate>Sat, 03 Apr 2021 16:06:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Egypt mummies pass through Cairo in ancient rulers' parade]]></title>
+            <description><![CDATA[The Cairo spectacle sees the remains of 18 kings and four queens taken to a new resting place.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56508475</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56508475</guid>
+            <pubDate>Sat, 03 Apr 2021 17:17:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We found a baby on the subway - now he's our son']]></title>
+            <description><![CDATA[Danny Stewart saw something on the floor of an NY subway station - soon he would treasure it more than anything.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56409764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56409764</guid>
+            <pubDate>Sat, 03 Apr 2021 23:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozambique Palma attack: How people tried to flee the assault]]></title>
+            <description><![CDATA[Survivors and their family members recount what happened when Islamist militants targeted Palma.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56602841</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56602841</guid>
+            <pubDate>Sat, 03 Apr 2021 23:15:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China is 'trampling on Hong Kong's democracy']]></title>
+            <description><![CDATA[With Beijing's influence now paramount, many in Hong Kong are torn between defiance and resignation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-56585731</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56585731</guid>
+            <pubDate>Sat, 03 Apr 2021 23:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England lockdown: Countdown to freedom]]></title>
+            <description><![CDATA[As coronavirus restrictions are lifted - when can you return to your favourite activities?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-56594933</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56594933</guid>
+            <pubDate>Thu, 01 Apr 2021 17:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Princess Diana has been portrayed on stage and in film]]></title>
+            <description><![CDATA[A new Broadway musical about the princess is just the latest in a series of portrayals of her life.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56587500</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56587500</guid>
+            <pubDate>Sat, 03 Apr 2021 23:05:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Three Essex survivors recount their experiences]]></title>
+            <description><![CDATA[Three people who survived coronavirus share their stories, from hospital to recovery.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-56501771</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-56501771</guid>
+            <pubDate>Sat, 03 Apr 2021 23:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Race report: Was controversy part of the plan?]]></title>
+            <description><![CDATA[How the government handled the release of a contentious report on racial disparity in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56578839</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56578839</guid>
+            <pubDate>Sat, 03 Apr 2021 11:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Late Willock goal earns Newcastle draw with Spurs]]></title>
+            <description><![CDATA[Newcastle earned a vital point in their fight for Premier League survival thanks to a late equaliser against Tottenham from on-loan Arsenal midfielder Joe Willock at St James' Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56553197</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56553197</guid>
+            <pubDate>Sun, 04 Apr 2021 17:34:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rampant Sale hammer Scarlets to reach first Champions Cup quarter-final since 2006]]></title>
+            <description><![CDATA[Sale book a Heineken Champions Cup quarter-final trip to face La Rochelle with an emphatic 57-14 victory away to a woeful Scarlets side.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56600414</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56600414</guid>
+            <pubDate>Sun, 04 Apr 2021 18:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Martial could miss remainder of season, says Solskjaer]]></title>
+            <description><![CDATA[Manchester United forward Anthony Martial could miss the remainder of the season with an injury picked up on international duty, manager Ole Gunnar Solskjaer says.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56634909</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56634909</guid>
+            <pubDate>Sun, 04 Apr 2021 18:28:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real Sociedad manager Imanol Alguacil sings after Copa del Rey win]]></title>
+            <description><![CDATA[Real Sociedad manager Imanol Alguacil celebrates ending his side's 34-year wait for a major trophy after their Copa del Rey victory over Athletic Bilbao.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56632538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56632538</guid>
+            <pubDate>Sun, 04 Apr 2021 12:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WSL: Chelsea 6-0 Birmingham City highlights - Sam Kerr scores first-half hat-trick as Chelsea thrash Birmingham]]></title>
+            <description><![CDATA[Watch highlights as Sam Kerr scores a first-half hat-trick as league leaders Chelsea secure a 6-0 victory against Birmingham City in the Women's Super League.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56633446</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56633446</guid>
+            <pubDate>Sun, 04 Apr 2021 14:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules for places of worship?]]></title>
+            <description><![CDATA[Places of worship are open across much of the UK, despite lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53219921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53219921</guid>
+            <pubDate>Wed, 31 Mar 2021 13:19:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 04 Apr 2021 16:30:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
+            <description><![CDATA[Lockdown rules are being eased further in England and Wales so more people can meet up outside.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Thu, 01 Apr 2021 07:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Your tributes to those who have died]]></title>
+            <description><![CDATA[A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52676411</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
+            <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[The rules on how many people can meet outdoors are changing, as lockdown is eased.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Thu, 01 Apr 2021 06:51:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is the EU unhappy with AstraZeneca?]]></title>
+            <description><![CDATA[The EU has called on AstraZeneca to "catch up" on its deliveries to the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/56483766</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56483766</guid>
+            <pubDate>Thu, 01 Apr 2021 16:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can pubs and restaurants reopen?]]></title>
+            <description><![CDATA[Hospitality venues are set to gradually open up in the spring as lockdown eases across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Thu, 01 Apr 2021 06:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules for weddings and when can I hold a reception?]]></title>
+            <description><![CDATA[Wedding ceremonies are still restricted across the UK, but the rules are easing.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52811509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
+            <pubDate>Thu, 01 Apr 2021 08:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What’s the problem with the EU vaccine rollout?]]></title>
+            <description><![CDATA[The coronavirus vaccine is being rolled out across the EU but there have been delays.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52380823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52380823</guid>
+            <pubDate>Thu, 01 Apr 2021 16:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Thu, 01 Apr 2021 14:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When will pools, gyms, pubs and hairdressers open?]]></title>
+            <description><![CDATA[Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
+            <pubDate>Fri, 02 Apr 2021 07:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
+            <description><![CDATA[Are European countries relaxing restrictions put in place to control a new wave of infections?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Wed, 31 Mar 2021 20:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
+            <description><![CDATA[As the UK cautiously unlocks, experts will review the evidence on when and where masks are needed.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Mon, 08 Mar 2021 17:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What's happened to crime during the pandemic?]]></title>
+            <description><![CDATA[From dog theft to drug crime, lockdown has led to some big changes in policing.]]></description>
+            <link>https://www.bbc.co.uk/news/56463680</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56463680</guid>
+            <pubDate>Sun, 28 Mar 2021 00:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules on dating now? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Tue, 30 Mar 2021 13:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[People aged 50 and over are urged to book their Covid vaccine in the next few days.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Wed, 31 Mar 2021 14:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
+            <description><![CDATA[Anyone in England who travels abroad without good reason will soon face a £5000 fine.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Fri, 26 Mar 2021 12:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unemployment rate: How many people are out of work?]]></title>
+            <description><![CDATA[The unemployment rate is rising as Covid hits different parts of the economy.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52660591</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52660591</guid>
+            <pubDate>Tue, 23 Mar 2021 11:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The inside story of the government's battle against the virus]]></title>
+            <description><![CDATA[Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56361599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56361599</guid>
+            <pubDate>Mon, 15 Mar 2021 21:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The countries that nailed it, and what we can learn from them]]></title>
+            <description><![CDATA[A year into the pandemic, we look at countries that have had some success in tackling the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56455030</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
+            <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
+            <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55302595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
+            <pubDate>Mon, 22 Mar 2021 14:26:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cost of speaking up against China]]></title>
+            <description><![CDATA[Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-56563449</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56563449</guid>
+            <pubDate>Tue, 30 Mar 2021 23:08:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?']]></title>
+            <description><![CDATA[Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56576285</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56576285</guid>
+            <pubDate>Tue, 30 Mar 2021 23:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Naga Munchetty: It’s time to talk about race]]></title>
+            <description><![CDATA[Naga Munchetty travelled across the UK to understand what race and racism means today.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56253480</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56253480</guid>
+            <pubDate>Mon, 08 Mar 2021 00:12:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The vaccine misinformation battle raging in France]]></title>
+            <description><![CDATA[Online conspiracy theories are exacerbating existing vaccine scepticism.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-56526265</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-56526265</guid>
+            <pubDate>Sat, 27 Mar 2021 01:04:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

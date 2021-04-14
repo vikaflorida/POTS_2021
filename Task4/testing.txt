@@ -1,0 +1,544 @@
+C:\Program Files\erl-23.3\bin>erl
+Eshell V11.2  (abort with ^G)
+1> c(rss_parse).
+{ok,rss_parse}
+2> c(rss_queue).
+{ok,rss_queue}
+3> c(test).
+{ok,test}
+4> processes().
+[<0.0.0>,<0.1.0>,<0.2.0>,<0.3.0>,<0.4.0>,<0.5.0>,<0.6.0>,
+ <0.7.0>,<0.10.0>,<0.42.0>,<0.44.0>,<0.46.0>,<0.47.0>,
+ <0.49.0>,<0.50.0>,<0.51.0>,<0.52.0>,<0.53.0>,<0.54.0>,
+ <0.55.0>,<0.56.0>,<0.57.0>,<0.58.0>,<0.59.0>,<0.60.0>,
+ <0.61.0>,<0.62.0>,<0.64.0>,<0.65.0>|...]
+5> length(processes()).
+38
+6> test:test1("BBC.xml").
+Size of RSS2Feed: 61
+=INFO REPORT==== 4-Apr-2021::23:10:28.077000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.078000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.082000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.083000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.083000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.085000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.086000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.087000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.089000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.090000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.092000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.094000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.096000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.099000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.102000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.106000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.109000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.115000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.118000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.123000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.129000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.133000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.141000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.147000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.157000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.163000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.174000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.180000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.192000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.206000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.212000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.225000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.241000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.258000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.274000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.291000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.307000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.324000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.340000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.373000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.390000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.423000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.440000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.475000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.524000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.541000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.643000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.689000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.723000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.757000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.854000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.907000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:28.957000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.006000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.040000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.090000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.141000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.174000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.240000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.343000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.423000 ===
+rss_queue <0.106.0>:  New item added to Queue. PID: <0.106.0>
+
+=INFO REPORT==== 4-Apr-2021::23:10:29.488000 ===
+rss_queue <0.106.0>:  Sent rss items to <0.102.0>
+
+Queue size = 61 items from the feed to <0.106.0>
+
+Queue:
+Item #1:
+  Guid: "https://www.bbc.co.uk/news/stories-56253480",
+  Title: [78,97,103,97,32,77,117,110,99,104,101,116,116,121,58,32,73,116,8217,
+          115,32,116,105,109,101,32,116,111,32,116,97,108,107,32,97,98,111,
+          117,116,32,114,97,99,101],
+  Link: "https://www.bbc.co.uk/news/stories-56253480",
+  PubDate: "Mon, 08 Mar 2021 00:12:47 GMT".
+Item #2:
+  Guid: "https://www.bbc.co.uk/news/health-51205344",
+  Title: "Coronavirus: What are the rules for face masks or face coverings?",
+  Link: "https://www.bbc.co.uk/news/health-51205344",
+  PubDate: "Mon, 08 Mar 2021 17:38:08 GMT".
+Item #3:
+  Guid: "https://www.bbc.co.uk/news/uk-politics-56361599",
+  Title: "Covid: The inside story of the government's battle against the virus",
+  Link: "https://www.bbc.co.uk/news/uk-politics-56361599",
+  PubDate: "Mon, 15 Mar 2021 21:52:17 GMT".
+Item #4:
+  Guid: "https://www.bbc.co.uk/news/uk-56455030",
+  Title: "Covid: The countries that nailed it, and what we can learn from them",
+  Link: "https://www.bbc.co.uk/news/uk-56455030",
+  PubDate: "Mon, 22 Mar 2021 00:05:58 GMT".
+Item #5:
+  Guid: "https://www.bbc.co.uk/news/health-55302595",
+  Title: "Covid: What is the Oxford-AstraZeneca vaccine?",
+  Link: "https://www.bbc.co.uk/news/health-55302595",
+  PubDate: "Mon, 22 Mar 2021 14:26:15 GMT".
+Item #6:
+  Guid: "https://www.bbc.co.uk/news/business-52660591",
+  Title: "Unemployment rate: How many people are out of work?",
+  Link: "https://www.bbc.co.uk/news/business-52660591",
+  PubDate: "Tue, 23 Mar 2021 11:36:11 GMT".
+Item #7:
+  Guid: "https://www.bbc.co.uk/news/explainers-52646738",
+  Title: "Covid: When can I go on holiday abroad or in the UK?",
+  Link: "https://www.bbc.co.uk/news/explainers-52646738",
+  PubDate: "Fri, 26 Mar 2021 12:46:32 GMT".
+Item #8:
+  Guid: "https://www.bbc.co.uk/news/blogs-trending-56526265",
+  Title: "The vaccine misinformation battle raging in France",
+  Link: "https://www.bbc.co.uk/news/blogs-trending-56526265",
+  PubDate: "Sat, 27 Mar 2021 01:04:56 GMT".
+Item #9:
+  Guid: "https://www.bbc.co.uk/news/56463680",
+  Title: "Covid: What's happened to crime during the pandemic?",
+  Link: "https://www.bbc.co.uk/news/56463680",
+  PubDate: "Sun, 28 Mar 2021 00:47:08 GMT".
+Item #10:
+  Guid: "https://www.bbc.co.uk/news/world-asia-china-51176409",
+  Title: "What are the rules on dating now? And other questions",
+  Link: "https://www.bbc.co.uk/news/world-asia-china-51176409",
+  PubDate: "Tue, 30 Mar 2021 13:33:05 GMT".
+Item #11:
+  Guid: "https://www.bbc.co.uk/news/world-asia-china-56563449",
+  Title: "The cost of speaking up against China",
+  Link: "https://www.bbc.co.uk/news/world-asia-china-56563449",
+  PubDate: "Tue, 30 Mar 2021 23:08:52 GMT".
+Item #12:
+  Guid: "https://www.bbc.co.uk/news/stories-56576285",
+  Title: [76,101,116,116,101,114,98,111,120,32,99,111,110,116,97,99,116,58,32,
+          8216,68,111,110,8217,116,32,109,121,32,98,105,114,116,104,32,99,104,
+          105,108,100,114,101,110,32,104,97,118,101,32,97,32,114,105,103,104,
+          116,32,116,111,32,107,110,111,119,32,73,8217,109,32,100,121,105,110,
+          103,63,39],
+  Link: "https://www.bbc.co.uk/news/stories-56576285",
+  PubDate: "Tue, 30 Mar 2021 23:19:18 GMT".
+Item #13:
+  Guid: "https://www.bbc.co.uk/news/uk-52676411",
+  Title: "Coronavirus: Your tributes to those who have died",
+  Link: "https://www.bbc.co.uk/news/uk-52676411",
+  PubDate: "Wed, 31 Mar 2021 10:36:31 GMT".
+Item #14:
+  Guid: "https://www.bbc.co.uk/news/explainers-53219921",
+  Title: "Coronavirus: What are the rules for places of worship?",
+  Link: "https://www.bbc.co.uk/news/explainers-53219921",
+  PubDate: "Wed, 31 Mar 2021 13:19:43 GMT".
+Item #15:
+  Guid: "https://www.bbc.co.uk/news/health-55045639",
+  Title: "Covid: When will I get the vaccine?",
+  Link: "https://www.bbc.co.uk/news/health-55045639",
+  PubDate: "Wed, 31 Mar 2021 14:15:13 GMT".
+Item #16:
+  Guid: "https://www.bbc.co.uk/news/explainers-53640249",
+  Title: "Covid: How are European countries tackling the pandemic?",
+  Link: "https://www.bbc.co.uk/news/explainers-53640249",
+  PubDate: "Wed, 31 Mar 2021 20:02:27 GMT".
+Item #17:
+  Guid: "https://www.bbc.co.uk/news/business-52977388",
+  Title: "Covid: When can pubs and restaurants reopen?",
+  Link: "https://www.bbc.co.uk/news/business-52977388",
+  PubDate: "Thu, 01 Apr 2021 06:37:58 GMT".
+Item #18:
+  Guid: "https://www.bbc.co.uk/news/explainers-52530518",
+  Title: "What's the roadmap for lifting lockdown?",
+  Link: "https://www.bbc.co.uk/news/explainers-52530518",
+  PubDate: "Thu, 01 Apr 2021 06:51:41 GMT".
+Item #19:
+  Guid: "https://www.bbc.co.uk/news/uk-51506729",
+  Title: "Covid: What is the rule of six and what are the social distancing rules?",
+  Link: "https://www.bbc.co.uk/news/uk-51506729",
+  PubDate: "Thu, 01 Apr 2021 07:06:45 GMT".
+Item #20:
+  Guid: "https://www.bbc.co.uk/news/explainers-52811509",
+  Title: "What are the rules for weddings and when can I hold a reception?",
+  Link: "https://www.bbc.co.uk/news/explainers-52811509",
+  PubDate: "Thu, 01 Apr 2021 08:50:06 GMT".
+Item #21:
+  Guid: "https://www.bbc.co.uk/news/uk-54373904",
+  Title: "Lockdown rules: What are the restrictions in your area?",
+  Link: "https://www.bbc.co.uk/news/uk-54373904",
+  PubDate: "Thu, 01 Apr 2021 14:24:11 GMT".
+Item #22:
+  Guid: "https://www.bbc.co.uk/news/56483766",
+  Title: "Why is the EU unhappy with AstraZeneca?",
+  Link: "https://www.bbc.co.uk/news/56483766",
+  PubDate: "Thu, 01 Apr 2021 16:34:59 GMT".
+Item #23:
+  Guid: "https://www.bbc.co.uk/news/explainers-52380823",
+  Title: [67,111,118,105,100,58,32,87,104,97,116,8217,115,32,116,104,101,32,
+          112,114,111,98,108,101,109,32,119,105,116,104,32,116,104,101,32,69,
+          85,32,118,97,99,99,105,110,101,32,114,111,108,108,111,117,116,63],
+  Link: "https://www.bbc.co.uk/news/explainers-52380823",
+  PubDate: "Thu, 01 Apr 2021 16:37:08 GMT".
+Item #24:
+  Guid: "https://www.bbc.co.uk/news/uk-england-56594933",
+  Title: "England lockdown: Countdown to freedom",
+  Link: "https://www.bbc.co.uk/news/uk-england-56594933",
+  PubDate: "Thu, 01 Apr 2021 17:30:31 GMT".
+Item #25:
+  Guid: "https://www.bbc.co.uk/news/explainers-53349989",
+  Title: "Coronavirus: When will pools, gyms, pubs and hairdressers open?",
+  Link: "https://www.bbc.co.uk/news/explainers-53349989",
+  PubDate: "Fri, 02 Apr 2021 07:44:03 GMT".
+Item #26:
+  Guid: "https://www.bbc.co.uk/news/uk-politics-56578839",
+  Title: "Race report: Was controversy part of the plan?",
+  Link: "https://www.bbc.co.uk/news/uk-politics-56578839",
+  PubDate: "Sat, 03 Apr 2021 11:14:44 GMT".
+Item #27:
+  Guid: "https://www.bbc.co.uk/news/uk-wales-56626101",
+  Title: "Wally the Walrus: Fears for safety as Tenby tourists get 'too close'",
+  Link: "https://www.bbc.co.uk/news/uk-wales-56626101",
+  PubDate: "Sat, 03 Apr 2021 14:35:25 GMT".
+Item #28:
+  Guid: "https://www.bbc.co.uk/news/entertainment-arts-56625683",
+  Title: "Bridgerton fans mourn Regщ-Jean Page's exit",
+  Link: "https://www.bbc.co.uk/news/entertainment-arts-56625683",
+  PubDate: "Sat, 03 Apr 2021 16:06:13 GMT".
+Item #29:
+  Guid: "https://www.bbc.co.uk/news/world-middle-east-56508475",
+  Title: "Egypt mummies pass through Cairo in ancient rulers' parade",
+  Link: "https://www.bbc.co.uk/news/world-middle-east-56508475",
+  PubDate: "Sat, 03 Apr 2021 17:17:59 GMT".
+Item #30:
+  Guid: "https://www.bbc.co.uk/news/world-middle-east-56615521",
+  Title: "Marwa Elselehdar: 'I was blamed for blocking the Suez Canal'",
+  Link: "https://www.bbc.co.uk/news/world-middle-east-56615521",
+  PubDate: "Sat, 03 Apr 2021 23:01:45 GMT".
+Item #31:
+  Guid: "https://www.bbc.co.uk/news/world-asia-pacific-56606143",
+  Title: "Project 17: Solving Singapore's food waste problem",
+  Link: "https://www.bbc.co.uk/news/world-asia-pacific-56606143",
+  PubDate: "Sat, 03 Apr 2021 23:02:47 GMT".
+Item #32:
+  Guid: "https://www.bbc.co.uk/news/entertainment-arts-56587500",
+  Title: "How Princess Diana has been portrayed on stage and in film",
+  Link: "https://www.bbc.co.uk/news/entertainment-arts-56587500",
+  PubDate: "Sat, 03 Apr 2021 23:05:05 GMT".
+Item #33:
+  Guid: "https://www.bbc.co.uk/news/uk-northern-ireland-56603956",
+  Title: "Long lost pen pals reunited after 70 years",
+  Link: "https://www.bbc.co.uk/news/uk-northern-ireland-56603956",
+  PubDate: "Sat, 03 Apr 2021 23:09:23 GMT".
+Item #34:
+  Guid: "https://www.bbc.co.uk/news/in-pictures-56498299",
+  Title: "Hidden treasure: Hertford Union Canal gives up its secrets",
+  Link: "https://www.bbc.co.uk/news/in-pictures-56498299",
+  PubDate: "Sat, 03 Apr 2021 23:10:58 GMT".
+Item #35:
+  Guid: "https://www.bbc.co.uk/news/stories-56409764",
+  Title: "'We found a baby on the subway - now he's our son'",
+  Link: "https://www.bbc.co.uk/news/stories-56409764",
+  PubDate: "Sat, 03 Apr 2021 23:14:24 GMT".
+Item #36:
+  Guid: "https://www.bbc.co.uk/news/world-africa-56602841",
+  Title: "Mozambique Palma attack: How people tried to flee the assault",
+  Link: "https://www.bbc.co.uk/news/world-africa-56602841",
+  PubDate: "Sat, 03 Apr 2021 23:15:08 GMT".
+Item #37:
+  Guid: "https://www.bbc.co.uk/news/world-asia-china-56585731",
+  Title: "China is 'trampling on Hong Kong's democracy'",
+  Link: "https://www.bbc.co.uk/news/world-asia-china-56585731",
+  PubDate: "Sat, 03 Apr 2021 23:15:39 GMT".
+Item #38:
+  Guid: "https://www.bbc.co.uk/news/uk-england-essex-56501771",
+  Title: "Covid-19: Three Essex survivors recount their experiences",
+  Link: "https://www.bbc.co.uk/news/uk-england-essex-56501771",
+  PubDate: "Sat, 03 Apr 2021 23:16:45 GMT".
+Item #39:
+  Guid: "https://www.bbc.co.uk/news/uk-england-derbyshire-56525456",
+  Title: "Bakewell love locks removal plans leave families 'devastated'",
+  Link: "https://www.bbc.co.uk/news/uk-england-derbyshire-56525456",
+  PubDate: "Sun, 04 Apr 2021 06:42:49 GMT".
+Item #40:
+  Guid: "https://www.bbc.co.uk/news/uk-england-london-56581934",
+  Title: "London Zoo: Learning to be a zookeeper during lockdown",
+  Link: "https://www.bbc.co.uk/news/uk-england-london-56581934",
+  PubDate: "Sun, 04 Apr 2021 06:58:02 GMT".
+Item #41:
+  Guid: "https://www.bbc.co.uk/news/world-middle-east-56625688",
+  Title: "Egypt mummies: Parade transports remains of pharaohs",
+  Link: "https://www.bbc.co.uk/news/world-middle-east-56625688",
+  PubDate: "Sun, 04 Apr 2021 10:29:19 GMT".
+Item #42:
+  Guid: "https://www.bbc.co.uk/sport/football/56630189",
+  Title: "Carabao Cup: Final between Tottenham & Man City to have 8,000 fans in stadium",
+  Link: "https://www.bbc.co.uk/sport/football/56630189",
+  PubDate: "Sun, 04 Apr 2021 11:12:29 GMT".
+Item #43:
+  Guid: "https://www.bbc.co.uk/sport/av/football/56632538",
+  Title: "Real Sociedad manager Imanol Alguacil sings after Copa del Rey win",
+  Link: "https://www.bbc.co.uk/sport/av/football/56632538",
+  PubDate: "Sun, 04 Apr 2021 12:34:21 GMT".
+Item #44:
+  Guid: "https://www.bbc.co.uk/news/uk-england-london-56632028",
+  Title: "Richard Okorogheye: Divers help search for missing student",
+  Link: "https://www.bbc.co.uk/news/uk-england-london-56632028",
+  PubDate: "Sun, 04 Apr 2021 13:21:17 GMT".
+Item #45:
+  Guid: "https://www.bbc.co.uk/sport/av/football/56633446",
+  Title: "WSL: Chelsea 6-0 Birmingham City highlights - Sam Kerr scores first-half hat-trick as Chelsea thrash Birmingham",
+  Link: "https://www.bbc.co.uk/sport/av/football/56633446",
+  PubDate: "Sun, 04 Apr 2021 14:06:36 GMT".
+Item #46:
+  Guid: "https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144",
+  Title: "Dorstone 'illegal rave': Police set up road blocks",
+  Link: "https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144",
+  PubDate: "Sun, 04 Apr 2021 14:21:19 GMT".
+Item #47:
+  Guid: "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56633336",
+  Title: "Three charged after mass brawl at Edinburgh Meadows",
+  Link: "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56633336",
+  PubDate: "Sun, 04 Apr 2021 14:30:40 GMT".
+Item #48:
+  Guid: "https://www.bbc.co.uk/news/uk-england-london-56632030",
+  Title: "Kill the Bill protests: More than 100 arrested in London",
+  Link: "https://www.bbc.co.uk/news/uk-england-london-56632030",
+  PubDate: "Sun, 04 Apr 2021 14:48:08 GMT".
+Item #49:
+  Guid: "https://www.bbc.co.uk/news/uk-england-birmingham-56633104",
+  Title: "Lucille Downer: Dogs 'humanely destroyed' after fatal attack in Rowley Regis",
+  Link: "https://www.bbc.co.uk/news/uk-england-birmingham-56633104",
+  PubDate: "Sun, 04 Apr 2021 15:21:47 GMT".
+Item #50:
+  Guid: "https://www.bbc.co.uk/news/uk-england-derbyshire-56632819",
+  Title: "No BBQs plea after Peak District moorland fires",
+  Link: "https://www.bbc.co.uk/news/uk-england-derbyshire-56632819",
+  PubDate: "Sun, 04 Apr 2021 15:31:19 GMT".
+Item #51:
+  Guid: "https://www.bbc.co.uk/sport/av/football/56632543",
+  Title: "WSL: Geese invade pitch at Brighton-Manchester United game",
+  Link: "https://www.bbc.co.uk/sport/av/football/56632543",
+  PubDate: "Sun, 04 Apr 2021 15:38:48 GMT".
+Item #52:
+  Guid: "https://www.bbc.co.uk/news/uk-northern-ireland-56631894",
+  Title: "Newtownabbey: Man charged after police attacked and cars hijacked",
+  Link: "https://www.bbc.co.uk/news/uk-northern-ireland-56631894",
+  PubDate: "Sun, 04 Apr 2021 16:26:36 GMT".
+Item #53:
+  Guid: "https://www.bbc.co.uk/news/uk-51768274",
+  Title: "How many cases are there in your area?",
+  Link: "https://www.bbc.co.uk/news/uk-51768274",
+  PubDate: "Sun, 04 Apr 2021 16:30:42 GMT".
+Item #54:
+  Guid: "https://www.bbc.co.uk/news/world-us-canada-56629013",
+  Title: "Florida declares state of emergency over toxic wastewater leak",
+  Link: "https://www.bbc.co.uk/news/world-us-canada-56629013",
+  PubDate: "Sun, 04 Apr 2021 17:10:50 GMT".
+Item #55:
+  Guid: "https://www.bbc.co.uk/sport/rowing/56630688",
+  Title: "2021 Boat Race: Cambridge beat Oxford in both men's and women's races",
+  Link: "https://www.bbc.co.uk/sport/rowing/56630688",
+  PubDate: "Sun, 04 Apr 2021 17:31:19 GMT".
+Item #56:
+  Guid: "https://www.bbc.co.uk/sport/football/56553197",
+  Title: "Late Willock goal earns Newcastle draw with Spurs",
+  Link: "https://www.bbc.co.uk/sport/football/56553197",
+  PubDate: "Sun, 04 Apr 2021 17:34:35 GMT".
+Item #57:
+  Guid: "https://www.bbc.co.uk/news/uk-wales-56634445",
+  Title: "A55 Easter traffic brought to standstill as horse 'breaks down'",
+  Link: "https://www.bbc.co.uk/news/uk-wales-56634445",
+  PubDate: "Sun, 04 Apr 2021 17:53:04 GMT".
+Item #58:
+  Guid: "https://www.bbc.co.uk/sport/rugby-union/56600414",
+  Title: "Rampant Sale hammer Scarlets to reach first Champions Cup quarter-final since 2006",
+  Link: "https://www.bbc.co.uk/sport/rugby-union/56600414",
+  PubDate: "Sun, 04 Apr 2021 18:25:00 GMT".
+Item #59:
+  Guid: "https://www.bbc.co.uk/sport/football/56634909",
+  Title: "Martial could miss remainder of season, says Solskjaer",
+  Link: "https://www.bbc.co.uk/sport/football/56634909",
+  PubDate: "Sun, 04 Apr 2021 18:28:51 GMT".
+Item #60:
+  Guid: "https://www.bbc.co.uk/news/world-middle-east-56633266",
+  Title: "Jordan accuses Prince Hamzah of plot to destabilise kingdom",
+  Link: "https://www.bbc.co.uk/news/world-middle-east-56633266",
+  PubDate: "Sun, 04 Apr 2021 19:01:08 GMT".
+Item #61:
+  Guid: "https://www.bbc.co.uk/news/uk-56634176",
+  Title: "Covid: Passports showing vaccine status would be 'time-limited', says minister",
+  Link: "https://www.bbc.co.uk/news/uk-56634176",
+  PubDate: "Sun, 04 Apr 2021 19:08:19 GMT".
+true
+7> processes().
+[<0.0.0>,<0.1.0>,<0.2.0>,<0.3.0>,<0.4.0>,<0.5.0>,<0.6.0>,
+ <0.7.0>,<0.10.0>,<0.42.0>,<0.44.0>,<0.46.0>,<0.47.0>,
+ <0.49.0>,<0.50.0>,<0.51.0>,<0.52.0>,<0.53.0>,<0.54.0>,
+ <0.55.0>,<0.56.0>,<0.57.0>,<0.58.0>,<0.59.0>,<0.60.0>,
+ <0.61.0>,<0.62.0>,<0.64.0>,<0.65.0>|...]
+8> length(processes()).
+38
+
+
+-------------------------------
+
+
+12> test:test1("slashdot.xml")
+.
+=ERROR REPORT==== 4-Apr-2021::23:15:22.069000 ===
+rss_queue <0.102.0>:  Version not 2.0! PID: <0.110.0>
+
+true
+13>
+
+
+---------------------------

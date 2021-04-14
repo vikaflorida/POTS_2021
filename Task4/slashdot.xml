@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="https://slashdot.org/">
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+<dc:date>2021-04-04T19:14:12+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/21/04/04/1815234/nodejs-rival-deno-gets-seed-capital-for-full-time-deno-engineers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/21/04/04/1637214/how-long-would-it-take-to-walk-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/21/04/03/046242/tesla-will-sell-green-credits-to-volkswagen-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://politics.slashdot.org/story/21/04/03/191258/why-is-amazon-taunting-politicians?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/21/04/04/0151246/did-patient-health-information-leak-into-githubs-arctic-code-vault?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/21/04/03/179214/linus-torvalds-discusses-intel-and-amds-new-proposals-for-interruptexception-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/21/04/03/2334232/after-years-of-setbacks-researchers-finally-prepare-underwater-neutrino-telescope-in-siberia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/21/04/04/0056224/other-ways-bidens-infrastructure-plan-could-power-americas-shift-from-fossil-fuels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/21/04/03/2359239/fallen-debris-from-spacex-satellite-launch-crashes-on-a-farm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/21/04/03/169222/fake-app-on-apples-app-store-scams-user-out-of-171-bitcoins-600000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/21/04/03/1950251/information-on-half-billion-facebook-users-leaked-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/21/04/03/1942218/nyt-if-you-care-about-privacy-its-time-to-try-a-new-web-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://linux.slashdot.org/story/21/04/03/0450256/almalinux-released-as-a-stable-rhel-clone-for-those-who-liked-centos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://slashdot.org/story/21/04/03/1834208/amazon-fesses-up-that-peeing-in-bottles-thing-is-probably-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/21/04/03/0352229/will-vw-face-regulatory-scrutiny-over-it-voltswagen-prank-like-elon-musk-did-for-his-tweets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="https://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="https://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<item rdf:about="https://developers.slashdot.org/story/21/04/04/1815234/nodejs-rival-deno-gets-seed-capital-for-full-time-deno-engineers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Node.js Rival Deno Gets Seed Capital For Full-time Deno Engineers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bOTqwsY3rU0/nodejs-rival-deno-gets-seed-capital-for-full-time-deno-engineers</link>
+<description>"The creators of Deno have formed the Deno Company, a business venture around the JavaScript/TypeScript runtime and rival to Node.js," reports InfoWorld:
+In a bulletin on March 29, Deno creator Ryan Dahl and Bert Belder, both of whom also led the development of Node.js, announced the formation of the company and said they had $4.9 million in seed capital, enough to pay for a staff of full-time engineers working to improve Deno... 
+Dahl and Belder said that, while they planned to pursue commercial applications of Demo, Deno itself would remain MIT-licensed, adding that for Deno to be maximally useful it must remain permissively free. "Our business will build on the open source project, not attempt to monetize it directly," they Deno authors said. 
+
+From their announcement:
+ We find server-side JavaScript hopelessly fragmented, deeply tied to bad infrastructure, and irrevocably ruled by committees without the incentive to innovate. As the browser platform moves forward at a rapid pace, server-side JavaScript has stagnated. Deno is our attempt to breathe new life into this ecosystem... 
+
+Not every use-case of server-side JavaScript needs to access the file system; our infrastructure makes it possible to compile out unnecessary bindings. This allows us to create custom runtimes for different applications: Electron-style GUIs, Cloudflare Worker-style Serverless Functions, embedded scripting for databases, etc.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Node.js+Rival+Deno+Gets+Seed+Capital+For+Full-time+Deno+Engineers%3A+https%3A%2F%2Fbit.ly%2F3mkj1NB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F21%2F04%2F04%2F1815234%2Fnodejs-rival-deno-gets-seed-capital-for-full-time-deno-engineers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/21/04/04/1815234/nodejs-rival-deno-gets-seed-capital-for-full-time-deno-engineers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18607732&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/bOTqwsY3rU0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T18:34:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>I-deno</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>5</slash:comments>
+<slash:hit_parade>5,4,4,4,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/21/04/04/1815234/nodejs-rival-deno-gets-seed-capital-for-full-time-deno-engineers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/21/04/04/1637214/how-long-would-it-take-to-walk-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How Long Would It Take To Walk Around the Moon?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rX0z3OvySAU/how-long-would-it-take-to-walk-around-the-moon</link>
+<description>The moon is just 27% the size of earth. So long-time Slashdot reader fahrbot-bot shares an interesting question from Science Alert. 
+
+"If you were to hop in a spaceship, don a spacesuit and go on an epic lunar hike, how long would it take to walk all the way around it? "
+
+During the Apollo missions, astronauts bounced around the surface at a casual 1.4 mph (2.2 km/h), according to NASA. This slow speed was mainly due to their clunky, pressurized spacesuits that were not designed with mobility in mind. If the "moonwalkers" had sported sleeker suits, they might have found it a lot easier to move and, as a result, picked up the pace... 
+
+At this new hypothetical max speed, it would take about 91 days to walk the 6,786-mile (10,921 km) circumference of the moon. For context, it would take around 334 days to walk nonstop (i.e., not stopping to sleep or eat) around the 24,901-mile (40,075 km) circumference of Earth at this speed, although it is impossible to do so because of the oceans. 
+
+Obviously, it's not possible to walk nonstop for 91 days, so the actual walk around the moon would take much longer.
+ 
+Of course, it's not that easy, with ongoing solar radiation, extreme temperatures, and the need to walk around mile-deep craters. Aidan Cowley, a scientific adviser at the European Space Agency, also pointed out to Live Science that you'd need a support vehicle following you with food, water, and oxygen (which could also double as shelter, "kind of like portable mini-bases."). But he also identified another issue:
+
+This type of mission would also require a huge amount of endurance training because of the demands of exercising in low gravity on your muscles and cardiovascular system. "You'd have to send an astronaut with ultra-marathon-level fitness to do it," Cowley said. Even then, walking at a top speed would be possible only for around three to four hours a day, Cowley said. So, if a person walked at 3.1 mph (5 km/h) for 4 hours a day, then it would take an estimated 547 days, or nearly 1.5 years to walk the moon's circumference, assuming your route isn't too disrupted by craters and you can deal with the temperature changes and radiation. 
+
+However, humans won't have the technology or equipment to accomplish such a feat until at least the late 2030s or early 2040s, Cowley said. "You'd never get an agency to support anything like this," Cowley said. "But if some crazy billionaire wants to try it, maybe they can pull it off."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+Long+Would+It+Take+To+Walk+Around+the+Moon%3F%3A+https%3A%2F%2Fbit.ly%2F31P0rmY"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F21%2F04%2F04%2F1637214%2Fhow-long-would-it-take-to-walk-around-the-moon%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/21/04/04/1637214/how-long-would-it-take-to-walk-around-the-moon?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18607512&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rX0z3OvySAU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T17:34:00+00:00</dc:date>
+<dc:subject>moon</dc:subject>
+<slash:department>moon-walking</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,20,18,15,1,1,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/21/04/04/1637214/how-long-would-it-take-to-walk-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/21/04/03/046242/tesla-will-sell-green-credits-to-volkswagen-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tesla will Sell 'Green Credits' to Volkswagen in China</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0wW0hZ-H6xw/tesla-will-sell-green-credits-to-volkswagen-in-china</link>
+<description>Reuters reports:
+
+A Volkswagen joint venture in China has agreed to buy green car credits from Tesla to help meet local environmental rules 
+
+The deal, the first of its kind to be reported between the two companies in China, highlights the scale of the task Volkswagen faces in transforming its huge petrol carmaking business into a leader in electric vehicles to rival Tesla. Shares in Volkswagen, the world's second-biggest automaker, have soared this year as investors warm to its plans to go electric. But in China, and elsewhere, the German company is still heavily reliant on traditional combustion-engine vehicles. 
+
+China, the world's biggest auto market where over 25 million vehicles were sold last year, runs a credit system that encourages automakers to work towards a cleaner future by, for example, improving fuel efficiency or making more electric cars. Manufacturers are awarded green credits that can be offset against negative credits for producing more polluting vehicles. 
+
+The VW-venture's gas-powered SUVs and sedans "have so far proved far more popular in China than their electric vehicles," Reuters notes. 
+
+MarketWatch adds that "A deal to buy credits from Tesla at a premium represents Volkswagen buoying the margins of one of its fiercest rivals in the electric-vehicle space."
+
+According to Swiss bank UBS, Tesla and Volkswagen will be the two global leaders in electric-vehicle sales within the next two years. The analysts expect that Volkswagen will catch up with Tesla in terms of total volume of cars sold as soon as next year, when the two companies could deliver around 1.2 million cars each.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+will+Sell+'Green+Credits'+to+Volkswagen+in+China%3A+https%3A%2F%2Fbit.ly%2F39GRkcm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F21%2F04%2F03%2F046242%2Ftesla-will-sell-green-credits-to-volkswagen-in-china%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/21/04/03/046242/tesla-will-sell-green-credits-to-volkswagen-in-china?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18600412&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0wW0hZ-H6xw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T16:34:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>not-easy-being-green</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,13,12,2,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/21/04/03/046242/tesla-will-sell-green-credits-to-volkswagen-in-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://politics.slashdot.org/story/21/04/03/191258/why-is-amazon-taunting-politicians?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why is Amazon Taunting Politicians?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CMImFi-6u0c/why-is-amazon-taunting-politicians</link>
+<description>Confronting progressive U.S. Senators Bernie Sanders and Elizabeth Warren, Amazon officials tweeted "the kind of bad-ittude you rarely see from a major corporation," writes Kara Swisher. 
+
+"Here's what was more extraordinary &amp;mdash; and revealing &amp;mdash; to me: One of the most powerful companies in the world could not take criticism from politicians without acting like one of the biggest babies in the world..." But why?
+
+[I]t all felt oddly emotional and risky, which is why it was clear that the decision to launch such attacks could have been made only by someone who never suffers when mistakes are made: Mr. Bezos. 
+
+Why would he take such an approach? 
+
+I don't think his intention was to influence the union vote in Alabama. Instead, the goal was to goad progressives into proposing legislation around things like data privacy and a $15 federal minimum wage that Mr. Bezos knows cannot pass without being watered down and, thus, made less dangerous to giants like Amazon. After gaining immense power in the pandemic and becoming one of the best-liked brands around, the company is now saying to Washington legislators, who have dragged their feet and held endless and largely useless hearings about how to deal with tech: I dare you to regulate us. 
+
+For Amazon, weak regulation would certainly be much better than having to talk about the very real human toll that free shipping might have on its workers. It's an attitude that we will see adopted by a lot more tech leaders who are going to try to use the momentum for regulation in their favor, rather than let it run over them. In a recent congressional hearing, for example, Facebook's chief executive, Mark Zuckerberg, sheepishly proposed changes to Section 230 of the 1996 Communications Decency Act, which gives platforms broad immunity for content posted on their sites. Many observers felt, though, that Mr. Zuckerberg's proposals were a smoke screen that would ultimately benefit Big Tech companies like Facebook. 
+
+It's high-risk, but possibly high reward, which has been Mr. Bezos' brand for his entire career, even before he was armed with all this power and money.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+is+Amazon+Taunting+Politicians%3F%3A+https%3A%2F%2Fbit.ly%2F3sOQFxn"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F21%2F04%2F03%2F191258%2Fwhy-is-amazon-taunting-politicians%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/21/04/03/191258/why-is-amazon-taunting-politicians?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18604710&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CMImFi-6u0c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T15:34:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>smiling-boxes</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,62,53,47,15,11,4</slash:hit_parade>
+<feedburner:origLink>https://politics.slashdot.org/story/21/04/03/191258/why-is-amazon-taunting-politicians?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/21/04/04/0151246/did-patient-health-information-leak-into-githubs-arctic-code-vault?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Did Patient Health Information Leak Into GitHub's Arctic Code Vault?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/hAgUDBSrgDA/did-patient-health-information-leak-into-githubs-arctic-code-vault</link>
+<description>HealthITSecurity writes:
+The patient data from multiple providers appears to have been captured and subsequently leaked on the data repository GitHub Arctic Code Vault by third-party vendor MedData, according to a new collaborative report from security researcher Jelle Ursem and Dissent Doe of DataBreaches.net. 
+
+Through his research, Ursem detected troves of protected health information tied to a single developer... The databases were taken down on December 17. MedData recently released a notice that detailed the massive patient data breach, which involved information provided to the vendor for processing services... Officials discovered that an employee had saved files to personal folders created on the GitHub repository between December 2018 and September 2019, during their employment... 
+
+The impacted data included patient names combined with one or more data elements, such as subscriber ID,Social Security numbers, diagnoses, conditions, claims data, dates of services, medical procedure codes, insurance policy numbers, provider names, contact details, and dates of birth. All affected patients will receive free credit monitoring and identity protection services... This is the second report from Ursem and Dissent on GitHub repositories leaking patient data in the last six months. In August, they reported that at least nine GitHub repositories leveraging improper access controls leaked data from more than 150,000 to 200,000 patients. The data belonged to multiple providers. 
+
+The incidents highlight the importance of vendor management and the need to ensure security policies are aligned. Previous reports have shown about one-third of healthcare databases stored in the cloud, or even locally, are actively leaking data online. What's worse, misconfigured databases can be hacked in about eight hours. 
+DataBreaches.net wonders what happened after Med-Data reached out to GitHub about the vault's logs and removal of the code.
+Did GitHub provide the logs? If so, what did they show? Is anyone's Protected Health Information in GitHub's Arctic Code Vault? And if so, what happens? Will GitHub remove it...? Or will code just be left there for researchers to explore in 1,000 years so they can wade through the personal and protected health information or other sensitive information of people who trusted others to protect their privacy? 
+
+In November, 2020, Ursem posed the question to GitHub on Twitter. They never replied.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Did+Patient+Health+Information+Leak+Into+GitHub's+Arctic+Code+Vault%3F%3A+https%3A%2F%2Fbit.ly%2F2QXgH3e"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F21%2F04%2F04%2F0151246%2Fdid-patient-health-information-leak-into-githubs-arctic-code-vault%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/21/04/04/0151246/did-patient-health-information-leak-into-githubs-arctic-code-vault?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18605456&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/hAgUDBSrgDA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T14:34:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>cold-storage</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,20,17,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/21/04/04/0151246/did-patient-health-information-leak-into-githubs-arctic-code-vault?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/21/04/03/179214/linus-torvalds-discusses-intel-and-amds-new-proposals-for-interruptexception-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Linus Torvalds Discusses Intel and AMD's New Proposals for Interrupt/Exception Handling</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aXd41NrBWrQ/linus-torvalds-discusses-intel-and-amds-new-proposals-for-interruptexception-handling</link>
+<description>"AMD and Intel have both proposed better ways of doing interrupt and exception handling the last few months," reports LinuxReviews.org. 
+
+Then they share this analysis Linus Torvalds posted on the Real World Technologies forum:
+
+"The AMD version is essentially "Fix known bugs in the exception handling definition". 
+
+The Intel version is basically "Yeah, the protected mode 80286 exception handling was bad, then 386 made it odder with the 32-bit extensions, and then syscall/sysenter made everything worse, and then the x86-64 extensions introduced even more problems. So let's add a mode bit where all the crap goes away". 
+
+In contrast, the AMD one is basically a minimal effort to fix actual fundamental problems with all that legacy-induced crap that are nasty to work around and that have caused issues... 
+
+Both are valid on their own, and they are actually fairly independent. Honestly, the AMD paper looks like a quick "we haven't even finished thinking all the details through, but we know these parts were broken, so we might as well release this". 
+
+I don't know how long it has been brewing, but judging by the "TBD" things in that paper, I think it's a "early rough draft"." 
+
+In the article (shared by long-time Slashdot reader xiando), LinuxReviews.org summarizes the state of the conversation today:
+Torvalds went on to say that while AMD's proposed "quick fix" would be easier to implement for him and others operating system vendors, it's not ideal in the long run. Intel's proposal throws the entire existing interrupt descriptor table (IDT) delivery system under the bus so it can be replaced with what they call a new "FRED event delivery" system. Torvalds believes this is a better long-term solution... 
+
+While the pros and cons of Intel and AMD's respective proposals for interrupt and event handling in future processors are worthy of discussion, it's in reality mostly up to Intel. They are the bigger and more powerful corporation. It is more likely than not that future processors from Intel will use their proposed Flexible Return and Event Delivery system. Their next generation processors won't, it will take years not months before consumer CPUs have the FRED technology. Remember, the above-mentioned technical document was published earlier this month [in March]. Things do not magically go from the drawing-board to store-shelves overnight. 
+
+Intel isn't going to just hand the FRED technology over to AMD and help them implement it. We will likely see both move forward with their own proposals. Intel will have FRED and AMD will have Supervisor Entry Extensions until AMD, inevitably, adopts FRED or some form of it years down the line. 
+
+They also note that Torvalds took issue with a poster arguing that microkernels are more secure than monolithic kernels like Linux.
+"Bah, you're just parroting the usual party line that had absolutely no basis in reality and when you look into the details, doesn't actually hold up. 
+
+It's all theory and handwaving and just repeating the same old FUD that was never actually really relevant."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Linus+Torvalds+Discusses+Intel+and+AMD's+New+Proposals+for+Interrupt%2FException+Handling%3A+https%3A%2F%2Fbit.ly%2F3mjCq10"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F21%2F04%2F03%2F179214%2Flinus-torvalds-discusses-intel-and-amds-new-proposals-for-interruptexception-handling%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/21/04/03/179214/linus-torvalds-discusses-intel-and-amds-new-proposals-for-interruptexception-handling?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18604410&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/aXd41NrBWrQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T11:34:00+00:00</dc:date>
+<dc:subject>amd</dc:subject>
+<slash:department>making-an-exception</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,73,62,51,7,2,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/21/04/03/179214/linus-torvalds-discusses-intel-and-amds-new-proposals-for-interruptexception-handling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/21/04/03/2334232/after-years-of-setbacks-researchers-finally-prepare-underwater-neutrino-telescope-in-siberia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>After Years of Setbacks, Researchers Finally Prepare Underwater Neutrino Telescope in Siberia</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/XmQTmatYWHQ/after-years-of-setbacks-researchers-finally-prepare-underwater-neutrino-telescope-in-siberia</link>
+<description>The New York Times tells the story of the Baikal-Gigaton Volume Detector, the largest neutrino telescope in the Northern Hemisphere and one of the world's biggest underwater space telescopes, now submerged in the world's deepest lake in Siberia. 
+
+The Times includes a quote from 80-year-old Russian physicist Grigori V. Domogatski, who has actually "led the quest" for this underwater telescope for 40 years. "If you take on a project, you must understand that you have to realize it in any conditions that come up," Dr. Domogatski said, banging on his desk for emphasis. "Otherwise, there's no point in even starting."
+
+[T]his hunt for neutrinos from the far reaches of the cosmos, spanning eras in geopolitics and in astrophysics, sheds light on how Russia has managed to preserve some of the scientific prowess that characterized the Soviet Union &amp;mdash; as well as the limitations of that legacy... In the 1970s, despite the Cold War, the Americans and the Soviets were working together to plan a first deep water neutrino detector off the coast of Hawaii. But after the Soviet Union invaded Afghanistan, the Soviets were kicked out of the project. So, in 1980, the Institute for Nuclear Research in Moscow started its own neutrino-telescope effort, led by Dr. Domogatski. The place to try seemed obvious, although it was about 2,500 miles away: Baikal. 
+
+The project did not get far beyond planning and design before the Soviet Union collapsed, throwing many of the country's scientists into poverty and their efforts into disarray. But an institute outside Berlin, which soon became part of Germany's DESY particle research center, joined the Baikal effort.... By the mid 1990s, the Russian team had managed to identify "atmospheric" neutrinos &amp;mdash; those produced by collisions in Earth's atmosphere &amp;mdash; but not ones arriving from outer space. It would need a bigger detector for that. As Russia started to reinvest in science in the 2000s under President Vladimir V. Putin, Dr. Domogatski managed to secure more than $30 million in funding to build a new Baikal telescope... 
+
+Construction began in 2015, and a first phase encompassing 2,304 light-detecting orbs suspended in the depths is scheduled to be completed by the time the ice melts in April. (The orbs remain suspended in the water year-round, watching for neutrinos and sending data to the scientists' lakeshore base by underwater cable....) The Baikal telescope looks down, through the entire planet, out the other side, toward the center of our galaxy and beyond, essentially using Earth as a giant sieve. For the most part, larger particles hitting the opposite side of the planet eventually collide with atoms. But almost all neutrinos &amp;mdash; 100 billion of which pass through your fingertip every second &amp;mdash; continue, essentially, on a straight line. Yet when a neutrino, exceedingly rarely, hits an atomic nucleus in the water, it produces a cone of blue light called Cherenkov radiation. The effect was discovered by the Soviet physicist Pavel A. Cherenkov, one of Dr. Domogatski's former colleagues down the hall at his institute in Moscow. If you spend years monitoring a billion tons of deep water for unimaginably tiny flashes of Cherenkov light, many physicists believe, you will eventually find neutrinos that can be traced back to cosmic conflagrations that emitted them billions of light-years away. 
+
+The orientation of the blue cones even reveals the precise direction from which the neutrinos that caused them came. 
+
+
+Business Insider notes it's run by an international team of researchers from the Czech Republic, Germany, Poland, Russia, and Slovakia &amp;mdash; and according to Russian news agency TASS cost nearly $34 million. 
+
+80-year-old Dr. Domogatski tells the Times, "You should never miss the chance to ask nature any question."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=After+Years+of+Setbacks%2C+Researchers+Finally+Prepare+Underwater+Neutrino+Telescope+in+Siberia%3A+https%3A%2F%2Fbit.ly%2F39IKUd3"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F21%2F04%2F03%2F2334232%2Fafter-years-of-setbacks-researchers-finally-prepare-underwater-neutrino-telescope-in-siberia%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/21/04/03/2334232/after-years-of-setbacks-researchers-finally-prepare-underwater-neutrino-telescope-in-siberia?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18605174&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/XmQTmatYWHQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T10:34:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>ghost-particle</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>12</slash:comments>
+<slash:hit_parade>12,12,9,8,4,1,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/21/04/03/2334232/after-years-of-setbacks-researchers-finally-prepare-underwater-neutrino-telescope-in-siberia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/21/04/04/0056224/other-ways-bidens-infrastructure-plan-could-power-americas-shift-from-fossil-fuels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Other Ways Biden's Infrastructure Plan Could Power America's Shift From Fossil Fuels</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lEBxjWe51sQ/other-ways-bidens-infrastructure-plan-could-power-americas-shift-from-fossil-fuels</link>
+<description>The Washington Post explains exactly how the new infrastructure plan of U.S President Joe Biden would "turbocharge" America's transition away from fossil fuels:
+
+The linchpin of Biden's plan, which he detailed in a speech Wednesday in Pittsburgh, is the creation of a national standard requiring utilities to use a specific amount of solar, wind and other renewable energy to power American homes, businesses and factories... [Including hydropower and nuclear energy.] Biden has said he wants a carbon-free electricity grid by 2035, so the proposed standard will probably be large... 
+
+He also plans to ask Congress to provide $174 billion to boost the U.S. market share of electric vehicles and their supply chains, from raw materials to retooled factories. He reiterated that he wants to establish 500,000 electric vehicle charging stations by 2030 and electrify 20 percent of the nation's yellow school buses. 
+
+Biden also requested $10 billion for a new Civilian Climate Corps, a name designed to echo President Franklin D. Roosevelt's Civilian Conservation Corps. Biden's version would hire an army of young people to work on projects that conserve and restore public lands and waters, increase reforestation, increase carbon sequestration through agriculture, protect biodiversity, improve access to recreation, and build resilience to climate change... 
+
+Biden is also asking for $16 billion to put "hundreds of thousands" of people to work plugging hundreds of thousands of "orphan" oil and natural gas wells that were largely abandoned after their useful life but which now leak methane, a greenhouse gas 20 times more potent than carbon dioxide. 
+
+The plan also calls for tax credits for solar panels -- and for companies researching carbon-capture technologies -- as well as new funding tools for power transmission lines. But it also seeks $35 billion to pursue a breakthrough technology (as well as $15 billion for climate-related demonstration projects. 
+
+This offers a way to commercialize and scale up today's already-existing innovations for clean energy, an official at the Bill Gates-founded Breakthrough Energy told the Post. He suggested the government's purchasing power could ultimately be crucial in lowering the cost of clean technologies like carbon capture and sustainable aviation fuel, and even the cost of producing hydrogen fuel by splitting water molecules. 
+
+Slashdot reader DanDrollette also adds this note from the Bulletin of the Atomic Scientists:
+
+The Biden administration announced what the Washington Post calls "an ambitious plan to expand wind farms along the East Coast and jump-start the country's nascent offshore wind industry," with enough windmills to be built that they could power more than 10 million US homes, and cut 78 million metric tons of greenhouse gas emissions... 
+
+The Biden administration said it will invest in associated research and development, provide $3 billion in low-interest loans to the offshore wind industry, and fund $230 million in changes to US ports to accommodate the expected influx of shipping and construction... While offshore wind is probably one of the fastest-growing sectors in renewable energy, the United States is still far behind Europe, where windmills are a common sight off the coast and the technology is widely accepted...&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Other+Ways+Biden's+Infrastructure+Plan+Could+Power+America's+Shift+From+Fossil+Fuels%3A+https%3A%2F%2Fbit.ly%2F3sSLXyv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F21%2F04%2F04%2F0056224%2Fother-ways-bidens-infrastructure-plan-could-power-americas-shift-from-fossil-fuels%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/21/04/04/0056224/other-ways-bidens-infrastructure-plan-could-power-americas-shift-from-fossil-fuels?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18605326&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lEBxjWe51sQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T07:34:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>power-plays</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>121</slash:comments>
+<slash:hit_parade>121,117,95,79,22,13,8</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/21/04/04/0056224/other-ways-bidens-infrastructure-plan-could-power-americas-shift-from-fossil-fuels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/21/04/03/2359239/fallen-debris-from-spacex-satellite-launch-crashes-on-a-farm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Fallen Debris from SpaceX Satellite Launch Crashes on a Farm</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3SaPhemuUrk/fallen-debris-from-spacex-satellite-launch-crashes-on-a-farm</link>
+<description>180 miles east of Seattle, "A pressure vessel from a SpaceX Falcon 9 rocket stage fell on a man's farm in Washington State last week," reports the Verge, "leaving a '4-inch dent in the soil,' the local sheriff's office said Friday." 
+
+Space.com reports:
+
+Although Falcon 9 rocket successfully delivered 60 Starlink satellites to orbit last month, the rocket's second stage didn't deorbit properly after completing the mission. The second stage is the smaller, upper part of the Falcon 9 rocket that separates from the main booster to take satellites to their intended orbit. While the main booster returns to Earth for a landing (so SpaceX can refurbish and reuse it on future launches), once the second stage has completed its role in the mission, it is either intentionally destroyed or left to linger in orbit. 
+
+Typically it conducts a "deorbit burn" that sends the craft on a safe trajectory to burn up in the atmosphere above the Pacific Ocean. But this time, something went wrong: According to Ars Technica, "there was not enough propellant after this launch to ignite the Merlin engine and complete the burn. So the propellant was vented into space, and the second stage was set to make a more uncontrolled re-entry into the atmosphere." So, instead of burning up over the ocean, the rocket stage ended up breaking up in the sky over the Pacific Northwest &amp;mdash; the fiery display visible not only from Washington but also from surrounding states and parts of Canada &amp;mdash; just after 9 p.m. local time on Thursday, March 25, or midnight EDT (0400 GMT) on Friday, March 26. 
+
+Jonathan McDowell, an astrophysicist at the Harvard-Smithsonian Center for Astrophysics, calls it "a bit of a puzzle" that the stage wasn't de-orbited under control back on March 4, telling the Verge that it "looks like something went wrong, but SpaceX has said nothing about it. However, reentries of this kind happen every couple of weeks. It's just unusual that it happens over a densely populated area, just because that's a small fraction of the Earth."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Fallen+Debris+from+SpaceX+Satellite+Launch+Crashes+on+a+Farm%3A+https%3A%2F%2Fbit.ly%2F2PvaScU"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F21%2F04%2F03%2F2359239%2Ffallen-debris-from-spacex-satellite-launch-crashes-on-a-farm%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/21/04/03/2359239/fallen-debris-from-spacex-satellite-launch-crashes-on-a-farm?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18605204&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3SaPhemuUrk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-04T01:34:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>sky-is-falling</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>85</slash:comments>
+<slash:hit_parade>85,84,72,53,14,6,5</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/21/04/03/2359239/fallen-debris-from-spacex-satellite-launch-crashes-on-a-farm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/21/04/03/169222/fake-app-on-apples-app-store-scams-user-out-of-171-bitcoins-600000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Fake App On Apple's App Store Scams User Out of 17.1 Bitcoins ($600,000)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BzLMSsdInDw/fake-app-on-apples-app-store-scams-user-out-of-171-bitcoins-600000</link>
+<description>Long-time Slashdot reader phalse phace quotes the Washington Post: Phillipe Christodoulou wanted to check his bitcoin balance last month, so he searched the App Store on his iPhone for "Trezor," the maker of a small hardware device he uses to store his cryptocurrency. Up popped the company's padlock logo set against a bright green background. The app was rated close to five stars. He downloaded it and typed in his credentials. 
+
+In less than a second, nearly all of his life savings &amp;mdash; 17.1 bitcoin worth $600,000 at the time &amp;mdash; was gone. The app was a fake, designed to trick people into thinking it was a legitimate app. 
+
+But Christodoulou is angrier at Apple than at the thieves themselves: He says Apple marketed the App Store as a safe and trusted place, where each app is reviewed before it is allowed in the store. Christodoulou, once a loyal Apple customer, said he no longer admires the company. "They betrayed the trust that I had in them," he said in an interview. "Apple doesn't deserve to get away with this." 
+
+
+Apple bills its App Store as "the world's most trusted marketplace for apps," where every submission is scanned and reviewed, ensuring they are safe, secure, useful and unique. But in fact, it's easy for scammers to circumvent Apple's rules, according to experts. Criminal app developers can break Apple's rules by submitting seemingly innocuous apps for approval and then transforming them into phishing apps that trick people into giving up their information, according to Apple. When Apple finds out, it removes the apps and bans the developers, the company says. But it's too late for the people who fell for the scam. 
+
+The Post also points out that the 15 to 30 percent commission Apple collects on all sales in the App Store "goes to fund the 'highly curated' customer experience, the company has said."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Fake+App+On+Apple's+App+Store+Scams+User+Out+of+17.1+Bitcoins+(%24600%2C000)%3A+https%3A%2F%2Fbit.ly%2F3rNUQYS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F21%2F04%2F03%2F169222%2Ffake-app-on-apples-app-store-scams-user-out-of-171-bitcoins-600000%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/21/04/03/169222/fake-app-on-apples-app-store-scams-user-out-of-171-bitcoins-600000?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18604198&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BzLMSsdInDw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-03T22:34:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>gone-in-60-seconds</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>170</slash:comments>
+<slash:hit_parade>170,170,126,108,32,12,6</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/21/04/03/169222/fake-app-on-apples-app-store-scams-user-out-of-171-bitcoins-600000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/21/04/03/1950251/information-on-half-billion-facebook-users-leaked-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Information On Half Billion Facebook Users Leaked Online</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2NUHTEiee_Q/information-on-half-billion-facebook-users-leaked-online</link>
+<description>Slashdot reader quonset quotes Business Insider: A user in a low level hacking forum on Saturday published the phone numbers and personal data of hundreds of millions of Facebook users for free online. The exposed data includes personal information of over 533 million Facebook users from 106 countries, including over 32 million records on users in the US, 11 million on users in the UK, and 6 million on users in India. It includes their phone numbers, Facebook IDs, full names, locations, birthdates, bios, and &amp;mdash; in some cases &amp;mdash; email addresses. 
+
+Insider reviewed a sample of the leaked data and verified several records by matching known Facebook users' phone numbers with the IDs listed in the data set. We also verified records by testing email addresses from the data set in Facebook's password reset feature, which can be used to partially reveal a user's phone number.
+
+ A Facebook spokesperson told Insider that the data was scraped due to a vulnerability that the company patched in 2019.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Information+On+Half+Billion+Facebook+Users+Leaked+Online%3A+https%3A%2F%2Fbit.ly%2F3fDVW6Z"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F21%2F04%2F03%2F1950251%2Finformation-on-half-billion-facebook-users-leaked-online%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/21/04/03/1950251/information-on-half-billion-facebook-users-leaked-online?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18604796&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/2NUHTEiee_Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-03T21:34:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>friend-requests</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,42,36,28,7,3,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/21/04/03/1950251/information-on-half-billion-facebook-users-leaked-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/21/04/03/1942218/nyt-if-you-care-about-privacy-its-time-to-try-a-new-web-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NYT: 'If You Care About Privacy, It's Time to Try a New Web Browser'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sY9MAphr2Ok/nyt-if-you-care-about-privacy-its-time-to-try-a-new-web-browser</link>
+<description>This week the lead consumer technology writer for The New York Times urged readers to switch their browser from Chrome, Safari, or Microsoft Edge to a private browser. 
+
+"For about a week, I tested three of the most popular options &amp;mdash; DuckDuckGo, Brave and Firefox Focus. Even I was surprised that I eventually switched to Brave as the default browser on my iPhone."
+Firefox Focus, available only for mobile devices like iPhones and Android smartphones, is bare-bones. You punch in a web address and, when done browsing, hit the trash icon to erase the session. Quitting the app automatically purges the history. When you load a website, the browser relies on a database of trackers to determine which to block. 
+
+The DuckDuckGo browser, also available only for mobile devices, is more like a traditional browser. That means you can bookmark your favorite sites and open multiple browser tabs. When you use the search bar, the browser returns results from the DuckDuckGo search engine, which the company says is more focused on privacy because its ads do not track people's online behavior. DuckDuckGo also prevents ad trackers from loading. When done browsing, you can hit the flame icon at the bottom to erase the session. 
+
+Brave is also more like a traditional web browser, with anti-tracking technology and features like bookmarks and tabs. It includes a private mode that must be turned on if you don't want people scrutinizing your web history. Brave is also so aggressive about blocking trackers that in the process, it almost always blocks ads entirely. The other private browsers blocked ads less frequently.... 
+
+In the end, though, you probably would be happy using any of the private browsers... For me, Brave won by a hair. My favorite websites loaded flawlessly, and I enjoyed the clean look of ad-free sites, along with the flexibility of opting in to see ads whenever I felt like it. Brendan Eich, the chief executive of Brave, said the company's browser blocked tracking cookies "without mercy." 
+
+"If everybody used Brave, it would wipe out the tracking-based ad economy," he said. 
+
+Count me in.
+
+&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NYT%3A+'If+You+Care+About+Privacy%2C+It's+Time+to+Try+a+New+Web+Browser'%3A+https%3A%2F%2Fbit.ly%2F39Ef40Z"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F21%2F04%2F03%2F1942218%2Fnyt-if-you-care-about-privacy-its-time-to-try-a-new-web-browser%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/21/04/03/1942218/nyt-if-you-care-about-privacy-its-time-to-try-a-new-web-browser?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18604792&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sY9MAphr2Ok" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-03T20:34:00+00:00</dc:date>
+<dc:subject>safari</dc:subject>
+<slash:department>battling-browsers</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>118</slash:comments>
+<slash:hit_parade>118,116,96,72,25,7,3</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/21/04/03/1942218/nyt-if-you-care-about-privacy-its-time-to-try-a-new-web-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://linux.slashdot.org/story/21/04/03/0450256/almalinux-released-as-a-stable-rhel-clone-for-those-who-liked-centos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>AlmaLinux Released As a Stable RHEL Clone For Those Who Liked CentOS</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/hlc4dGgNZUA/almalinux-released-as-a-stable-rhel-clone-for-those-who-liked-centos</link>
+<description>Long-time Slashdot reader xiando quotes the backstory from LinuxReviews.org:
+
+CentOS used to be the go-to alternative for those who wanted to use Red Hat Enterprise Linux (RHEL) without having to pay RedHat to use it. It was a almost 1:1 clone until RedHat took control of it and turned it into what is now a RHEL beta-version, not a stable RHEL release without the branding. Almalinux is one of several projects that have made their own RHEL forks in response. The first Almalinux version is now released. 
+
+ZDNet notes that CentOS co-founder Gregory Kurtzer has announced his own RHEL clone and CentOS replacement named Rocky Linux.
+
+ But they offer this report on AlmaLinux:
+
+CloudLinux &amp;mdash; which was founded in 2009 to provide a customized, high-performance, lightweight RHEL/CentOS server clone for multitenancy web and server hosting companies &amp;mdash; came ready to deliver. The new free AlmaLinux is now stable and ready for production workloads. The company also announced the formation of a non-profit organization: AlmaLinux Open Source Foundation. This group will take over managing the AlmaLinux project going forward. CloudLinux has committed a $1 million annual endowment to support the project. 
+
+Jack Aboutboul, former Red Hat and Fedora engineer and architect, will be AlmaLinux's community manager. Altogether, Aboutboul brings over 20 years of experience in open-source communities as a participant, manager, and evangelist... "In an effort to fill the void soon to be left by the demise of CentOS as a stable release, AlmaLinux has been developed in close collaboration with the Linux community," said Aboutaboul in a statement. "These efforts resulted in a production-ready alternative to CentOS that is supported by community members...." 
+
+In talking with CentOS business users, who deployed CentOS on web and host servers, I found many of them to be very hopeful about AlmaLinux. One from a mid-Atlantic-based Linux hosting company said, "What we want is a stable Linux that our customers can rely on from year to year. Since CentOS Stream can't deliver that, we think &amp;mdash; hope &amp;mdash; that AlmaLinux can do it for us and our users instead...." 
+
+This first release of AlmaLinux is a one-to-one binary compatible fork of RHEL 8.3. Looking ahead, AlmaLinux will seek to keep step-in-step with future RHEL releases... The GitHub page has already been published and the completed source code has been published in the main download repository. The CloudLinux engineering team has also published FAQ on AlmaLinux Wiki. 
+
+"The sudden shift in direction for CentOS that was announced in December created a big void for millions of CentOS users," said Simon Phipps, open source advocate and a former president of the Open Source Initiative who is on the governing board of the AlmaLinux project. In a statement, Phipps said that "As a drop-in open-source replacement, AlmaLinux provides those users with continuity and new opportunity to be part of a vibrant community built around creating and supporting this new Linux distribution under non-profit governance. 
+
+"I give a lot of credit to CloudLinux for stepping in to offer CentOS users a lifeline to continue with AlmaLinux."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=AlmaLinux+Released+As+a+Stable+RHEL+Clone+For+Those+Who+Liked+CentOS%3A+https%3A%2F%2Fbit.ly%2F2POljIt"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F21%2F04%2F03%2F0450256%2Falmalinux-released-as-a-stable-rhel-clone-for-those-who-liked-centos%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/21/04/03/0450256/almalinux-released-as-a-stable-rhel-clone-for-those-who-liked-centos?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18600586&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/hlc4dGgNZUA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-03T19:34:00+00:00</dc:date>
+<dc:subject>os</dc:subject>
+<slash:department>different-distros</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,32,28,24,8,2,1</slash:hit_parade>
+<feedburner:origLink>https://linux.slashdot.org/story/21/04/03/0450256/almalinux-released-as-a-stable-rhel-clone-for-those-who-liked-centos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://slashdot.org/story/21/04/03/1834208/amazon-fesses-up-that-peeing-in-bottles-thing-is-probably-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amazon 'Fesses Up':  that Peeing in Bottles Thing is Probably True</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Bydr9-ly4T0/amazon-fesses-up-that-peeing-in-bottles-thing-is-probably-true</link>
+<description>"You don't really believe the peeing in bottles thing, do you?" Amazon tweeted last week. 
+
+But on Friday "The web giant fessed up that its delivery drivers have limited access to bathrooms, meaning that accusations of them urinating in bottles or elsewhere in public are likely to be true," reports the New York Post:
+
+"We know that drivers can and do have trouble finding restrooms because of traffic or sometimes rural routes," the online retail giant posted on its AboutAmazon portal. "And this has been especially the case during Covid when many public restrooms have been closed...." Amazon's mea culpa admits that the original response was wrong. "It did not contemplate our large driver population and instead wrongly focused only on our fulfillment centers..." 
+
+Amazon's original tweet had been attempting to knock down criticism from U.S. congressman Mark Pocan, who'd tweeted that "Paying workers $15/hr doesn't make you a 'progressive workplace' when you union-bust &amp;amp; make workers urinate in water bottles." 
+
+After Amazon's belated acknowledgement of his original criticism, Pocan responded, "Sigh. This is not about me, this is about your workers &amp;mdash; who you don't treat with enough respect or dignity. Start by acknowledging the inadequate working conditions you've created for ALL your workers, then fix that for everyone &amp;amp; finally, let them unionize without interference." 
+
+Ars Technica notes Amazon's turnabout follows an investigation by Vice which had indeed discovered a Reddit forum for Amazon drivers with "dozens of threads and hundreds of comments" on the issues around finding a bathroom. But Ars also notes the issue appears to extend beyond Amazon:
+"This is a long-standing, industry-wide issue and is not specific to Amazon," the company added. Amazon says it wants to solve the problem: "We don't yet know how, but will look for solutions." 
+
+Amazon appears to be right about that. Drivers for Uber, Lyft, and food delivery services have reported trouble finding bathrooms while on the job. Drivers for UPS and FedEx have reported similar difficulties. The problem has gotten worse in the last year as the pandemic has closed a large number of stores and restaurants.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+'Fesses+Up'%3A++that+Peeing+in+Bottles+Thing+is+Probably+True%3A+https%3A%2F%2Fbit.ly%2F3ul7u3i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F21%2F04%2F03%2F1834208%2Famazon-fesses-up-that-peeing-in-bottles-thing-is-probably-true%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/21/04/03/1834208/amazon-fesses-up-that-peeing-in-bottles-thing-is-probably-true?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18604632&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Bydr9-ly4T0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-03T18:35:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>driver-dilemmas</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>93</slash:comments>
+<slash:hit_parade>93,92,79,64,20,9,7</slash:hit_parade>
+<feedburner:origLink>https://slashdot.org/story/21/04/03/1834208/amazon-fesses-up-that-peeing-in-bottles-thing-is-probably-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/21/04/03/0352229/will-vw-face-regulatory-scrutiny-over-it-voltswagen-prank-like-elon-musk-did-for-his-tweets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Will VW Face Regulatory Scrutiny Over It 'Voltswagen' Prank Like Elon Musk Did For His Tweets?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NTJZBd3zTWM/will-vw-face-regulatory-scrutiny-over-it-voltswagen-prank-like-elon-musk-did-for-his-tweets</link>
+<description>Volkswagen's early April Fool's Day prank (pretending to re-name the company "Voltswagen") "may have put the company at risk of running afoul of U.S. securities law by wading into the murky waters of potentially misleading investors," reports CNN:
+"This is not the sort of thing that a responsible global company should be doing," said Charles Whitehead, Myron C. Taylor Alumni Professor of Business Law at Cornell Law School... 
+
+Volkswagen is indeed investing heavily in electric vehicles, but confusion over the name change could prompt scrutiny from the Securities and Exchange Commission or litigation from investors who feel misled by the joke. The Securities Exchange Act prohibits companies from making false or misleading statements to investors... Quipping about the status of a business that Volkswagen is positioning as more environmentally friendly also could irk investors, especially in light of the 2015 diesel emissions scandal the company has been trying to put behind it. 
+
+"Will the SEC inquire? Well, of course they will," Whitehead said. "It's gotten enough publicity and people are concerned about it and there are issues about whether or not companies should be doing this that I'm sure [the SEC is] going to make a phone call." A representative from Volkswagen's headquarters said Wednesday afternoon the company had not been contacted by the SEC. The agency declined to comment on the matter. 
+
+There is precedent for the SEC taking action against cheeky statements regarding big companies. In 2018, Tesla CEO Elon Musk settled with the SEC for $20 million after the agency said his tweet about securing funding to take the company private at $420 a share &amp;mdash; an apparent joke about weed &amp;mdash; misled investors... 
+
+it didn't help that the statement announcing the purported name change included no reference to April Fools' Day &amp;mdash; and it landed two days before the holiday... Volkswagen's stock fell nearly 4% on Wednesday in the wake of news of the debacle. And that's no joke. 
+
+Whitehead doesn't think the SEC would ultimately consider a name change material to investors, though he adds that "These are all kind of gray areas, which is why a responsible company just doesn't go down this path...."
+
+But with some VW stock near a six-year high, a Bloomberg columnist calls the episode a reminder "that we now live in the meme-stock age where even bad jokes can add or subtract billions of dollars in market value." They also call it a lesson in just how difficult it is to "be Elon." 
+
+ "Charming young Redditors in an authentic way isn't an easy act to pull off..."
+
+Despite being one of the planet's richest people, Musk's counterculture savvy and feisty irreverence has made him a hero for Redditors. Tesla has weaponized its soaring share price to raise billions of dollars in cheap funding. That money pays for new factories and products and is a threat to established carmakers. VW must fund its investments via the cash it generates. Even after this year's blistering run its share price is less than 10 times the value of its earnings. It would be self-defeating if VW didn't try to be a bit "cooler." 
+
+ There's also a double-standard in play. We expect VW to be reliable, while Tesla gets to be quirky. Indeed, Musk gets away with things that others wouldn't. For years Tesla has marketed an autopilot system called "Full Self Driving" that can't yet drive entirely by itself &amp;mdash; the timeline for when it will be able to do that always seems to be just around the corner.... 
+
+Following VW's successful "Power Day" &amp;mdash; a straight copy of Musk's "Battery Day" event &amp;mdash; I quipped that it wouldn't be long before VW boss Herbert Diess was appointed "TechnoKaiser." Finance blog Zerohedge came up with the better punchline: "VW should go full Elon and file an 8K saying its new title is Voltswagen," it tweeted. VW appears to have taken that tongue-in-cheek advice rather too literally. More fool them. 
+
+Bloomberg's columnist also acknowledges that Volkswagen "has an ambitious and convincing electric-vehicle plan and may soon leapfrog Tesla to become the world's largest battery-vehicle manufacturer. But being ploddingly German is an impediment in today's stock market."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Will+VW+Face+Regulatory+Scrutiny+Over+It+'Voltswagen'+Prank+Like+Elon+Musk+Did+For+His+Tweets%3F%3A+https%3A%2F%2Fbit.ly%2F39FcszU"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F21%2F04%2F03%2F0352229%2Fwill-vw-face-regulatory-scrutiny-over-it-voltswagen-prank-like-elon-musk-did-for-his-tweets%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/21/04/03/0352229/will-vw-face-regulatory-scrutiny-over-it-voltswagen-prank-like-elon-musk-did-for-his-tweets?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=18600376&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/NTJZBd3zTWM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2021-04-03T17:34:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>oh-fahrvergnugen</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>49</slash:comments>
+<slash:hit_parade>49,47,40,36,8,3,3</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/21/04/03/0352229/will-vw-face-regulatory-scrutiny-over-it-voltswagen-prank-like-elon-musk-did-for-his-tweets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
